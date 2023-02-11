@@ -1,2 +1,4 @@
-# odev 2
- odev 2
+
+# Ödev2
+**README.md ekliyorum**
+## [Patika.dev adresim](https://app.patika.dev/skynx)
